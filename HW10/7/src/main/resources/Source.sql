@@ -1,0 +1,1 @@
+create table if not exists words(id serial primary key ,word varchar (100));
